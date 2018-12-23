@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>timg.jpg</file>
+        <file>Exitt.png</file>
+        <file>grayMusicc.png</file>
+        <file>Musicc.png</file>
+        <file>startt.png</file>
+        <file>tipp.png</file>
+        <file>giraffee.png</file>
+        <file>giraffeeStroke.png</file>
+        <file>hippopotamuss.png</file>
+        <file>hippopotamussStroke.png</file>
+        <file>monkeyy.png</file>
+        <file>monkeyyStroke.png</file>
+        <file>snakee.png</file>
+        <file>snakeeStroke.png</file>
+        <file>huli.png</file>
+        <file>huliStroke.png</file>
+        <file>qie.png</file>
+        <file>qieStroke.png</file>
+        <file>Deemo.mp3</file>
+        <file>baozha.png</file>
+        <file>listt.png</file>
+        <file>rank_level_1.txt</file>
+        <file>rank_level_2.txt</file>
+        <file>rank_level_3.txt</file>
+    </qresource>
+</RCC>
